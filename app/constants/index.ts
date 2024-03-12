@@ -213,6 +213,18 @@ export const projects =  [
       url: "https://sskn.vercel.app/",
     },
     {
+      imgSrc: "/portfolio/scss portfolio.png",
+      title: "Portfolio",
+      description: "React and Scss",
+      url: "https://topg-teal.vercel.app/"
+    },
+    {
+      imgSrc: "/portfolio/movie-box.png",
+      title: "Movie Box",
+      description: "Next js and Tailwind",
+      url: "https://hng-movie-box.vercel.app/"
+    },
+    {
       imgSrc: "/portfolio/chart dashboard.png",
       title: "Chart Dashboard",
       description: "Next js and Tailwind",
@@ -225,16 +237,16 @@ export const projects =  [
       url: "https://memory-game-divineade.vercel.app/"
     },
     {
+      imgSrc: "/portfolio/shop.png",
+      title: "Sanity Shop",
+      description: "Next js and Tailwind",
+      url: "https://shop-one-ebon.vercel.app/"
+    },
+    {
       imgSrc: "/portfolio/fashion.png",
       title: "Fashion",
       description: "Next js and Tailwind",
       url: "https://ibere-psi.vercel.app/"
-    },
-    {
-      imgSrc: "/portfolio/movie-box.png",
-      title: "Movie Box",
-      description: "Next js and Tailwind",
-      url: "https://hng-movie-box.vercel.app/"
     },
     {
       imgSrc: "/portfolio/musica.png",
